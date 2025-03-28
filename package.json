@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/textstyler",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Text Styler is a simple tool for styling text in various ways. It returns the styled text.",
   "main": "index.js",
   "scripts": {
